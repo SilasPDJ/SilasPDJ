@@ -15,4 +15,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github-emoji-picker.vercel.app/
 -->
+---
+- 🎓 **Sistemas de Informação 5/8** 
+- 🤖 Automatização de testes com selenium, pyautogui & outros. 
+- ✔️ Python, HTML, Javascript
+  
+- 📚 Estudando Java OO
+  
+---  
+- 📯 French horn player
