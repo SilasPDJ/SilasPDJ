@@ -18,9 +18,9 @@
 https://github-emoji-picker.vercel.app/
 -->
 ---
-- 🎓 **Sistemas de Informação 6/8** 
+- 🎓 **Sistemas de Informação 7/8** 
 - 🤖 Automatização de testes com selenium, pyautogui **&** outros. 
 - ✔️ Python, HTML, Javascript
-- 📚 Estudando Java OO **&** muito mais
+- 📚 Estudando Java, Appian, ReactJS **&** muito mais
 ---  
 - 📯 French horn player
