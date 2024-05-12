@@ -18,7 +18,7 @@
 https://github-emoji-picker.vercel.app/
 -->
 ---
-- 🎓 **Sistemas de Informação 7/8** 
+- 🎓 **Ciência da Computação 7/8** 
 - 🤖 Automatização de testes com selenium, pyautogui **&** outros. 
 - ✔️ Python, HTML, Javascript
 - 📚 Estudando Java, Appian, ReactJS **&** muito mais
